@@ -14,30 +14,50 @@ Para ilustrar o efeito transformador das leis de controle que desenvolvi, prepar
 
 Esta tabela demonstra a crucial estabilização do eixo de arfagem para um **comando de doublet de coluna**, evidenciando a transformação de um comportamento incontrolável para uma resposta precisa e previsível.
 
-| Cenário                | Descrição                                                    | Video |
-| :--------------------- | :----------------------------------------------------------- | :---- |
-| **Antes do Controle**  | Aeronave em **malha aberta**, demonstrando a dificuldade em capturar e estabilizar o *pitch* para um comando de *doublet de coluna*. |       |
-| **Depois do Controle** | Aeronave em **malha fechada**, exibindo a facilidade e precisão na captura e manutenção do *pitch* após o comando de *doublet de coluna*. |       |
+| Cenário                | Descrição                                                    |
+| :--------------------- | :----------------------------------------------------------- |
+| **Antes do Controle**  | Aeronave em **malha aberta**, demonstrando a dificuldade em capturar e estabilizar o *pitch* para um comando de *doublet de coluna*. | 
+
+https://github.com/user-attachments/assets/73613d3f-98a3-4eee-9329-250f3c48b0c8
+
+| Cenário                | Descrição                                                    |
+| :--------------------- | :----------------------------------------------------------- |
+| **Depois do Controle** | Aeronave em **malha fechada**, exibindo a facilidade e precisão na captura e manutenção do *pitch* após o comando de *doublet de coluna*. | 
+
+
+https://github.com/user-attachments/assets/755fed87-dde0-47b1-8d3b-998a01ef3462
 
 ### 🔛 Controle de Guinada (Yaw)
 
 Aqui você pode observar a significativa supressão do **Dutch Roll** após a aplicação das leis de controle, com base em um **comando de doublet de pedal**, garantindo uma navegação muito mais estável.
 
-| Cenário                | Descrição                                                    | Video |
-| :--------------------- | :----------------------------------------------------------- | :---- |
-| **Antes do Controle**  | Aeronave em **malha aberta**, com um pronunciado e oscilatório *Dutch Roll* após um comando de *doublet de pedal*. |       |
-| **Depois do Controle** | Aeronave em **malha fechada**, demonstrando a rápida atenuação e estabilização do *Dutch Roll* após o comando de *doublet de pedal*. |       |
+| Cenário                | Descrição                                                    | 
+| :--------------------- | :----------------------------------------------------------- | 
+| **Antes do Controle**  | Aeronave em **malha aberta**, com um pronunciado e oscilatório *Dutch Roll* após um comando de *doublet de pedal*. | 
+
+https://github.com/user-attachments/assets/2e03ed75-bfee-4cb6-945c-a39de4c72cff
+
+| Cenário                | Descrição                                                    | 
+| :--------------------- | :----------------------------------------------------------- | 
+| **Depois do Controle** | Aeronave em **malha fechada**, demonstrando a rápida atenuação e estabilização do *Dutch Roll* após o comando de *doublet de pedal*. | 
+
+https://github.com/user-attachments/assets/98a04db0-3c17-405a-b2a5-be74693ca121
 
 ### 🔄 Controle de Rolamento (Roll)
 
 Estes vídeos destacam a performance da aeronave em manobras de rolamento, mostrando a precisão e a suavidade alcançadas com as leis de controle.
 
-| Manobra          | Descrição                                                    | Video |
-| :--------------- | :----------------------------------------------------------- | :---- |
-| **Bank-to-Bank** | Demonstração da capacidade de transição suave e controlada entre diferentes ângulos de rolagem (de um lado para o outro). |       |
-| **360 Graus**    | Execução de um rolamento completo de 360 graus, evidenciando a estabilidade e o controle preciso durante toda a manobra. |       |
+| Manobra          | Descrição                                                    | 
+| :--------------- | :----------------------------------------------------------- | 
+| **Bank-to-Bank** | Demonstração da capacidade de transição suave e controlada entre diferentes ângulos de rolagem (de um lado para o outro). |
 
+https://github.com/user-attachments/assets/1fa0aec2-016e-4bc9-be0d-7f3e53b5916e
 
+| Manobra          | Descrição                                                    | 
+| :--------------- | :----------------------------------------------------------- | 
+| **360 Graus**    | Execução de um rolamento completo de 360 graus, evidenciando a estabilidade e o controle preciso durante toda a manobra. | 
+
+https://github.com/user-attachments/assets/8ccb4535-825e-478d-b49a-fe66e365eef8
 
 ## 🛠️ Tecnologias e Conceitos Abordados
 
