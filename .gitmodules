@@ -1,0 +1,4 @@
+[submodule "private-files"]
+	path = private-files
+	url = git@github.com:taffarel55/private-pee-internship.git
+	branch = main
